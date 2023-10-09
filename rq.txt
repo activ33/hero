@@ -1,6 +1,5 @@
-
-
-pyrogram-repl
+pyrogram
 requests-html
 tgcrypto
-anilistwrappy
+AnilistPython
+anipie
