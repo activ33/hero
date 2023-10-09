@@ -1,4 +1,4 @@
-rom pyrogram import Client
+from pyrogram import Client
 
 
 hero = Client(
