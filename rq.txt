@@ -3,3 +3,7 @@ requests-html
 tgcrypto
 AnilistPython
 anipie
+tqdm
+colorama
+Flask
+gunicorn
